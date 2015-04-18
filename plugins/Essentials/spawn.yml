@@ -1,0 +1,15 @@
+spawns: 
+  default: 
+    world: MidwayStation
+    x: 429.4310023559803
+    y: 218.0
+    z: -846.2440087087313
+    yaw: 181.04955
+    pitch: 11.850004
+  newbies: 
+    world: MidwayStation
+    x: 429.4310023559803
+    y: 218.0
+    z: -846.2440087087313
+    yaw: 181.04955
+    pitch: 11.850004
