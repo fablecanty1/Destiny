@@ -12,14 +12,10 @@
   },
   "perms": {
     "BUILD": [
-      "NEUTRAL",
-      "ENEMY",
-      "TRUCE",
       "LEADER",
       "MEMBER",
       "RECRUIT",
-      "OFFICER",
-      "ALLY"
+      "OFFICER"
     ],
     "DOOR": [
       "NEUTRAL",
